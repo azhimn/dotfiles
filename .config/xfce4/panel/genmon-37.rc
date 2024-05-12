@@ -1,0 +1,6 @@
+Command=bash /home/chemist/.config/xfce4/panel/my-genmon.sh
+UseLabel=0
+Text=(genmon)
+UpdatePeriod=1000
+Font=Noto Sans Mono 10
+
