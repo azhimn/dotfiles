@@ -1,0 +1,10 @@
+*
+!Kojiro.png
+!.gitignore
+!.icons/
+!.themes/
+!.local/share/xfce4/terminal/colorschemes/
+!.config/xfce4/panel/
+!.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-panel.xml
+!.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-terminal.xml
+!.config/fastfetch/
