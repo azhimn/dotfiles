@@ -16,7 +16,9 @@
 + **Terminal** :
   + xfce4-terminal : [GruvboxDark Hard](https://github.com/gruvbox-community/gruvbox-contrib/blob/master/xfce4-terminal/gruvbox-dark-hard.theme) color scheme by gruvbox-community
   + kitty (current): [Gruvbox Dark Hard](https://raw.githubusercontent.com/gruvbox-community/gruvbox-contrib/master/kitty/gruvbox-dark-hard.conf)
-    
+
++ **oh-my-zsh**: bureau
+
 + **VScode theme**: [Gruvbox Theme](https://github.com/jdinhify/vscode-theme-gruvbox)
                     [Gruvbox Material Icon Theme](https://github.com/Jonathan-Harty/vscode-material-icon-theme)  
 
