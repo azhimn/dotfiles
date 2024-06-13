@@ -1,3 +1,4 @@
+## Themes used
 + **Wallpaper** : [gruvbox-wallpapers - Kojiro.png](https://github.com/AngelJumbo/gruvbox-wallpapers/blob/main/wallpapers/light/Kojiro.png)
 
 + **GTK Theme** : Modified version of [gruvbox-dark-gtk](https://github.com/jmattheis/gruvbox-dark-gtk)
@@ -19,7 +20,7 @@
 + **VScode theme**: [Gruvbox Theme](https://github.com/jdinhify/vscode-theme-gruvbox)
                     [Gruvbox Material Icon Theme](https://github.com/Jonathan-Harty/vscode-material-icon-theme)  
 
-Preview:
+## Preview
 ![preview](Pictures/screenshot-1.png)
 ![preview](Pictures/screenshot-2.png)
 ![preview](Pictures/screenshot-3.png)
