@@ -20,6 +20,6 @@
                     [Gruvbox Material Icon Theme](https://github.com/Jonathan-Harty/vscode-material-icon-theme)  
 
 Preview:
-![preview](pictures/screenshot-1.png)
-![preview](pictures/screenshot-2.png)
-![preview](pictures/screenshot-3.png)
+![preview](Pictures/screenshot-1.png)
+![preview](Pictures/screenshot-2.png)
+![preview](Pictures/screenshot-3.png)
