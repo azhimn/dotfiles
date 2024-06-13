@@ -1,0 +1,6 @@
+Command=bash /home/anh/.config/xfce4/panel/my-genmon.sh
+UseLabel=0
+Text=(genmon)
+UpdatePeriod=3000
+Font=Noto Mono 10
+
