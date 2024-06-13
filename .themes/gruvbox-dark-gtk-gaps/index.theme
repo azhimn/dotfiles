@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=gruvbox-dark-gaps
+Comment=No comment
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=gruvbox-dark-gaps
+GtkTheme=gruvbox-dark-gaps
+IconTheme=gruvbox-dark-gaps
+MetacityTheme=gruvbox-dark-gaps
