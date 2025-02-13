@@ -1,0 +1,57 @@
+@define-color accent #A7C080;
+@define-color txt #D3C6AA;
+@define-color bg #2B3339;
+@define-color bg2 #333C43;
+
+* {
+  font-family: 'Noto';
+  font-weight: 500;
+  font-size: 13px;
+}
+
+window {
+  margin: 0px;
+  border: 2px solid #a7c080;
+  border-radius: 4px;
+  background-color: #2B3339;
+}
+
+#input {
+  margin: 5px;
+  border: none;
+  color: #D3C6AA;
+  background-color: #272E33;
+}
+
+#inner-box {
+  margin: 5px;
+  border: none;
+  background-color: #2B3339;
+}
+
+#outer-box {
+  margin: 5px;
+  border: none;
+  background-color: #2B3339;
+}
+
+#scroll {
+  margin: 0px;
+  border: none;
+}
+
+#text {
+  margin: 5px;
+  border: none;
+  color: #D3C6AA;
+}
+
+#entry:selected {
+  /* background-color: #272E33; */
+  background-color: #D3C6AA;
+  border-radius: 4px;
+}
+
+#entry:selected #text {
+  color: #2B3339;
+}
